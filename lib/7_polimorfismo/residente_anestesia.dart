@@ -1,4 +1,4 @@
-import 'package:dart_poo/polimorfismo/anestesista.dart';
+import 'package:dart_poo/7_polimorfismo/anestesista.dart';
 
 class ResidenteAnestesia extends Anestesista {
   @override
